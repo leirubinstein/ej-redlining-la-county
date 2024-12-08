@@ -1,4 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y9NmRt3K)
-# EDS 223 Homework Assignment #2
+# Exploring Patterns of Environmental Justice in LA County
+#### EDS 223 Homework #2
 
-All relevant data available [here](https://drive.google.com/file/d/14CauXFZkVh_6z2Euq0m1Sq1kHQ31fiMk/view?usp=drive_link).
+## Description
+This exercise explores historical redlining in Los Angeles and its legacy on present-day environmental justice. We incorporated historical redlining data into current census tracts and environmental observations to:
+- build effective, responsible, accessible and aesthetically-pleasing maps
+- practice manipulating vector and raster data to build multi-layer maps
+- practice making maps in R, specifically using `tmap`.
+
+## File Organization
+```
+EDS223-HW2
+│   README.md
+│   redlining.qmd
+│   redlining.html
+│   EDS223-HW2.Rproj 
+│
+└───data
+     └───ejscreen
+     └───gbif-birds-LA
+     └───mapping-inequality
+```
+
+## References/Acknowledgements
+This [exercise](https://eds-223-geospatial.github.io/assignments/HW2.html) was produced as a part of the Master of Environmental Data Science Program from the Bren School of Environmental Science and Management, taught by [Dr. Ruth Oliver](https://bren.ucsb.edu/people/ruth-oliver).
